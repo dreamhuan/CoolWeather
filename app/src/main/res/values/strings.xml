@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CoolWeather</string>
+    <string name="api_key">4fe360a822084bbc9bb4e02c7dad3dbd</string>
 </resources>
